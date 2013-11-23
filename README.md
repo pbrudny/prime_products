@@ -5,7 +5,7 @@ prime_products
 bundle install
 
 == Running
-ruby coding_challenge.rb
+ruby prime_products.rb
 
 == Testing
 ruby test/multiplication_table_spec.rb
