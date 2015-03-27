@@ -1,5 +1,5 @@
 require 'matrix'
-require 'lib/table'
+require_relative 'table'
 
 #
 # This class is used to calculate products of elements from given array
