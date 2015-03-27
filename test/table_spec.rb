@@ -1,5 +1,5 @@
-require 'test/test_helper'
-require 'lib/table'
+require_relative 'test_helper'
+require_relative '../lib/table'
 
 describe Table do
   describe 'when gets 2 dimensional array with numbers' do

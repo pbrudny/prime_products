@@ -1,5 +1,5 @@
-require 'test/test_helper'
-require 'lib/prime_generator'
+require_relative 'test_helper'
+require_relative '../lib/prime_generator'
 
 describe PrimeGenerator do
   describe 'when initialized with 1' do

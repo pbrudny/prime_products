@@ -1,5 +1,5 @@
 require_relative 'test_helper'
-require_relative 'multiplication_table'
+require_relative '../lib/multiplication_table'
 
 describe MultiplicationTable do
   describe 'when gets one dimensional array' do
